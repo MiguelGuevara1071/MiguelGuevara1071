@@ -1,23 +1,25 @@
-# ¡Hola! 👋 Soy [Miguel Guevara]
+# ¡Hola! 👋 Soy Miguel Guevara
 
 ## Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un [Ingeniero de datos / Analista y desarrollador], apasionado por el area de los datos, pero tambien me gusta realizar proyectos web de en donde se vean involucradas tecnologias de Backend y Frontend.
+¡Bienvenido/a a mi perfil de GitHub! Soy un `Ingeniero de datos / Analista y desarrollador`, apasionado por el area de los datos, pero tambien me gusta realizar proyectos web de en donde se vean involucradas tecnologias de Backend y Frontend.
 
 ## Habilidades y Herramientas
 - Lenguajes de programación: [Python, Javascript, Php, Scala]
-- Tecnologías y herramientas: [Node.js, React, Tailwind Css, Laravel, Boostrap]
+- Tecnologías y herramientas: [Apache Spark, Pyspark, ApacheAirflow, Hadoop, Node.js, React, Tailwind Css, Laravel, Boostrap, Docker]
+- Bases de datos: [MySql, SQLite, MongoDB]
+- Nube GCP: [Bigquery, Cloud Storage, Dataproc, Composer, Compute Engine, Secret Manager]
 
 ## Proyectos Destacados
 Aquí algunos de los proyectos en los que he estado trabajando recientemente:
 
-- [Unikasas](Enlace al Proyecto): Sistema de información realizado para la empresa Unikasas para la gestion de proyectos de la empresa.
-- [Banco](Enlace al Proyecto): Tengo varios proyectos realizados para algunas entidades bancarias pero por temas de segurad no se pueden publicar en mi perfil.
+- [Unikasas]: Sistema de información realizado para la empresa Unikasas para la gestion de proyectos de la empresa.
+- [BancoS]: Tengo varios proyectos realizados para algunas entidades bancarias pero por temas de segurad no se pueden publicar en mi perfil.
 
 ## Contacto
 ¡Conéctate conmigo en mis redes sociales o plataformas!
-- [LinkedIn]([Enlace a mi perfil de LinkedIn]https://www.linkedin.com/in/miguel-angel-guevara-dev))
-- [Telfono]: +57 3112598352
-- [Correo eletronico]: miguelguevara1071@gamil.com
+- [LinkedIn](https://www.linkedin.com/in/miguel-angel-guevara-dev)
+- [Telfono]:( +57 3112598352)
+- [Correo]:( miguelguevara1071@gamil.com)
 
 ¡Gracias por visitar mi perfil!
 
