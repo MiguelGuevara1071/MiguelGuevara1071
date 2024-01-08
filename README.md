@@ -21,7 +21,11 @@ Aquí algunos de los proyectos en los que he estado trabajando recientemente:
 - [Telfono]:(+57 3112598352)
 - [Correo]:( miguelguevara1071@gamil.com)
 
+En la parte inferior puedes revisar algunos de mis proyectso realizados ⚡.
+
 ¡Gracias por visitar mi perfil!
+
+
 
 <!--
 **MiguelGuevara1071/MiguelGuevara1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
