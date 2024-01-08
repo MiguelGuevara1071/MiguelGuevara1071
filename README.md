@@ -19,7 +19,7 @@ Aquí algunos de los proyectos en los que he estado trabajando recientemente:
 ¡Conéctate conmigo en mis redes sociales o plataformas!
 - [LinkedIn](https://www.linkedin.com/in/miguel-angel-guevara-dev)
 - [Telfono]:(+57 3112598352)
-- [Correo]:(miguelguevara1071@gamil.com)
+- [Correo]:( miguelguevara1071@gamil.com)
 
 ¡Gracias por visitar mi perfil!
 
