@@ -8,12 +8,13 @@
 - Tecnologías y herramientas: [Apache Spark, Pyspark, ApacheAirflow, Hadoop, Node.js, React, Tailwind Css, Laravel, Boostrap, Docker]
 - Bases de datos: [MySQL, SQLite, MongoDB]
 - Nube GCP: [Bigquery, Cloud Storage, Dataproc, Composer, Compute Engine, Secret Manager]
+- Nube Azure: [Blob Storage, SQL Database, Databricks, Data Factory, Virtual Machines]
 
 ## Proyectos Destacados
 Aquí algunos de los proyectos en los que he estado trabajando recientemente:
 
 - [Unikasas]: Sistema de información realizado para la empresa Unikasas para la gestion de proyectos de la empresa.
-- [Bancos]: Tengo varios proyectos realizados para algunas entidades bancarias pero por temas de segurad no se pueden publicar en mi perfil.
+- [Bancos]: Tengo varios proyectos realizados para algunas entidades bancarias pero por temas de seguridad y de confidencialidad no se encuentran publicados en mi perfil.
 
 ## Contacto
 ¡Conéctate conmigo en mis redes sociales o plataformas!
