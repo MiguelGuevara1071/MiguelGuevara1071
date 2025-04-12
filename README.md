@@ -7,7 +7,7 @@
 En mi repositorio encontraras algunos de los pryectos de los cursos que he realizado:
 
 - [Unikasas]: Sistema de información realizado para la empresa Unikasas para la gestion de proyectos de la empresa.
-- [Mision Tic 2022]: Proyecto de grado Universisdad Industrial de Santander. Desarrollado con la finalidad de manejar los registros de ingreso de vehiculos aun parquedero, codigo fuente escrito en Java unsando el Frameworwk Sprint Boot, utilizando el servidor Apache Tomcat.
+- [Mision Tic 2022]: Proyecto de grado Universisdad Industrial de Santander. Desarrollado con la finalidad de manejar los registros de ingreso de vehiculos de un parquedero, codigo fuente escrito en Java unsando el Frameworwk Sprint Boot, utilizando el servidor Apache Tomcat.
 - [Apis] - Ejercicios de conexión a Apis para consumirlas y extraer información y mostrarla en una iterfaz grafica.
 - [CS50's] - Ejercicios realizados durante el curso con la Universidad de Harvard.
 - [Bancos]: Tengo varios proyectos realizados para algunas entidades bancarias pero por temas de seguridad y de confidencialidad no se encuentran publicados en mi perfil.
