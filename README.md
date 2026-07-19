@@ -1,41 +1,60 @@
-# ¡Hola! 👋 Soy Miguel Guevara
+# Hola, soy Miguel Guevara 👋
 
-## Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un `Ingeniero de datos / Analista y desarrollador`, apasionado por el area de los datos, pero tambien me gusta realizar proyectos web en donde se vean involucradas tecnologias de Backend y Frontend.
+## Data Engineer | GCP & Azure
 
-## Proyectos
-En mi repositorio encontrara algunos de los proyectos de los cursos que he realizado:
+Ingeniero de Datos con más de 4 años de experiencia en el diseño e implementación de soluciones de datos sobre Google Cloud Platform (GCP) y Microsoft Azure.
 
-- [Unikasas]: Sistema de información realizado para la empresa Unikasas para la gestion de proyectos de la empresa.
-- [Mision Tic 2022]: Proyecto de grado Universisdad Industrial de Santander. Desarrollado con la finalidad de manejar los registros de ingreso de vehiculos de un parquedero, codigo fuente escrito en Java unsando el Frameworwk Sprint Boot, utilizando el servidor Apache Tomcat.
-- [Apis] - Ejercicios de conexión a Apis para consumirlas y extraer información y mostrarla en una iterfaz grafica.
-- [Juego Flapybird] - Juego realizado como ejercicio SENA durante el desarrolllo del Tecnologo.
-- [CS50's] - Ejercicios realizados durante el curso con la Universidad de Harvard.
-- [Bancos]: Tengo varios proyectos realizados para algunas entidades bancarias pero por temas de seguridad y de confidencialidad no se encuentran publicados en mi perfil.
+Actualmente trabajo en proyectos de ingeniería de datos para el sector financiero colombiano, participando en el desarrollo de procesos ETL/ELT, plataformas Big Data, migraciones cloud y automatización de cargas de datos.
 
-## Contacto
-¡Conéctate conmigo en mis redes sociales o plataformas!
-- [LinkedIn](https://www.linkedin.com/in/miguelguevaradev)
-- [Telfono]:(+57 3112598352)
-- [Correo]:( miguelguevara1071@gamil.com)
+## Tecnologías principales
 
-En la parte inferior puedes revisar algunos de mis proyectso realizados ⚡.
+### Cloud
+- Google Cloud Platform (GCP)
+- Microsoft Azure
 
-¡Gracias por visitar mi perfil!
+### Data Engineering
+- BigQuery
+- Dataproc
+- Databricks
+- Azure Data Factory
+- Apache Spark
+- PySpark
+- Apache Airflow
 
+### Lenguajes
+- Python
+- SQL
+- Scala
+- JavaScript
 
+### Herramientas
+- Git
+- GitLab
+- Docker
+- Linux
 
-<!--
-**MiguelGuevara1071/MiguelGuevara1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Actualmente aprendiendo
 
-Here are some ideas to get you started:
+- Vertex AI
+- Inteligencia Artificial Generativa
+- Modelos LLM
+- Automatización de procesos con IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositorios
+
+La mayoría de los proyectos empresariales en los que participo son privados debido a acuerdos de confidencialidad.
+
+En este perfil encontrarás proyectos personales, académicos y laboratorios utilizados para aprendizaje y experimentación tecnológica.
+
+## Conecta conmigo
+
+📧 Email: miguelguevara9727@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/miguelguevaradev
+
+🌎 Colombia
+
+---
+
+Gracias por visitar mi perfil.
