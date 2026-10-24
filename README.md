@@ -1,60 +1,43 @@
 # Hola, soy Miguel Guevara 👋
 
-## Data Engineer | GCP & Azure
+### Data Engineer | GCP · Azure · Airflow · dbt · Agentes de IA
 
-Ingeniero de Datos con más de 4 años de experiencia en el diseño e implementación de soluciones de datos sobre Google Cloud Platform (GCP) y Microsoft Azure.
+Ingeniero de Datos desde 2022, diseñando pipelines ETL/ELT y migrando procesos de datos hacia Google Cloud Platform (GCP) y Microsoft Azure en proyectos del sector financiero colombiano.
 
-Actualmente trabajo en proyectos de ingeniería de datos para el sector financiero colombiano, participando en el desarrollo de procesos ETL/ELT, plataformas Big Data, migraciones cloud y automatización de cargas de datos.
+## Lo que hago
 
-## Tecnologías principales
+- Diseño e implemento pipelines ETL/ELT y soluciones Big Data en GCP y Azure.
+- Migro procesos desde Cloudera, Oracle y Teradata hacia la nube.
+- Optimizo procesos en producción: pipelines críticos que pasaron de horas a minutos y consultas SQL con menor consumo de recursos.
+- Optimizo agentes de IA con Vertex AI y Google ADK y aplico herramientas de IA para acelerar migraciones (de ~4 horas a 10–20 minutos).
 
-### Cloud
-- Google Cloud Platform (GCP)
-- Microsoft Azure
+## Tecnologías
 
-### Data Engineering
-- BigQuery
-- Dataproc
-- Databricks
-- Azure Data Factory
-- Apache Spark
-- PySpark
-- Apache Airflow
+**Cloud:** Google Cloud Platform (BigQuery, Dataproc, Cloud Composer, Cloud Run, Pub/Sub) · Microsoft Azure (Databricks, Data Factory, Azure Functions)
 
-### Lenguajes
-- Python
-- SQL
-- Scala
-- JavaScript
+**Big Data y ETL/ELT:** Apache Spark, PySpark, Apache Airflow, dbt
 
-### Herramientas
-- Git
-- GitLab
-- Docker
-- Linux
+**Lenguajes:** Python, SQL, Scala, JavaScript
 
-## Actualmente aprendiendo
+**Bases de datos:** Teradata, PostgreSQL, MySQL, MongoDB
 
-- Vertex AI
-- Inteligencia Artificial Generativa
-- Modelos LLM
-- Automatización de procesos con IA
+**IA y agentes:** Vertex AI, Google ADK, LLMs, Claude Code
+
+**Herramientas:** Git, GitHub, GitLab, Docker, Linux, Power BI
+
+## Profundizando ahora
+
+- Agentes de IA y arquitecturas multi-agente
+- Desarrollo de aplicaciones y agentes con Azure AI
+- Transformación de datos con dbt y Spark SQL en Databricks
+- Ingeniería de Software (graduación estimada diciembre 2027)
 
 ## Repositorios
 
-La mayoría de los proyectos empresariales en los que participo son privados debido a acuerdos de confidencialidad.
-
-En este perfil encontrarás proyectos personales, académicos y laboratorios utilizados para aprendizaje y experimentación tecnológica.
+La mayoría de los proyectos empresariales en los que participo son privados por acuerdos de confidencialidad. Aquí encontrarás proyectos personales, académicos y laboratorios de aprendizaje y experimentación.
 
 ## Conecta conmigo
 
-📧 Email: miguelguevara9727@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/miguelguevaradev
-
+📧 miguelguevara1071@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/miguelguevaradev)
 🌎 Colombia
-
----
-
-Gracias por visitar mi perfil.
